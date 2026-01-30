@@ -61,7 +61,7 @@ jobs:
           JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_API_TOKEN__', make_secret_ref('JIRA_API_TOKEN'))
           
           WORKFLOW_PATH = ".github/workflows/jira-integration.yml"
-          EXCLUDE_REPOS = ['.github','.about-cleanstart-containers','exported-repos']
+          EXCLUDE_REPOS = ['.github','.about-cleanstart-containers','exported-repos','demo-repository']
           
           g = Github(GITHUB_TOKEN)
           org = g.get_organization(ORG_NAME)
