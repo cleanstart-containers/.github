@@ -23,7 +23,7 @@ jobs:
       
       - name: Sync templates
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SYNC_GITHUB_TOKEN }}
         run: |
           python3 << 'EOF'
           from github import Github
