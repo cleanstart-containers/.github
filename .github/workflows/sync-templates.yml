@@ -36,7 +36,7 @@ jobs:
               'ISSUE_TEMPLATE/bug_report.md',
               'ISSUE_TEMPLATE/feature_request.md',
               'ISSUE_TEMPLATE/inquiry_template.md',
-              'ISSUE_TEMPLATE/sample_script_request.yml',
+              'ISSUE_TEMPLATE/sample_script_request.md',
           ]
           
           EXCLUDE_REPOS = ['.github']
