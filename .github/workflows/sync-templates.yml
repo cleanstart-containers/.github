@@ -1,0 +1,75 @@
+name: Sync Issue Templates to All Repositories
+
+on:
+  workflow_dispatch:  # Manual trigger only
+
+jobs:
+  sync-templates:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      
+      - name: Install PyGithub
+        run: pip install PyGithub
+      
+      - name: Sync templates
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          from github import Github
+          import os
+          
+          GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
+          ORG_NAME = "cleanstart-containers"
+          
+          TEMPLATE_FILES = [
+              'ISSUE_TEMPLATE/bug_report.md',
+              'ISSUE_TEMPLATE/feature_request.md',
+              'ISSUE_TEMPLATE/inquiry_template.md',
+              'ISSUE_TEMPLATE/sample_script_request.yml',
+          ]
+          
+          EXCLUDE_REPOS = ['.github']
+          
+          g = Github(GITHUB_TOKEN)
+          org = g.get_organization(ORG_NAME)
+          
+          print("Starting sync...")
+          repos = [r for r in org.get_repos() if r.name not in EXCLUDE_REPOS]
+          print(f"Found {len(repos)} repositories to sync")
+          
+          success = 0
+          for repo in repos:
+              print(f"\nProcessing: {repo.name}")
+              try:
+                  source_repo = g.get_repo(f"{ORG_NAME}/.github")
+                  for template_file in TEMPLATE_FILES:
+                      content = source_repo.get_contents(template_file).decoded_content.decode('utf-8')
+                      target_path = f".github/{template_file}"
+                      
+                      try:
+                          existing = repo.get_contents(target_path)
+                          if existing.decoded_content.decode('utf-8') != content:
+                              repo.update_file(target_path, f"Update {template_file.split('/')[-1]}", content, existing.sha, branch=repo.default_branch)
+                              print(f"  ✅ Updated {template_file.split('/')[-1]}")
+                          else:
+                              print(f"  ⏭️  {template_file.split('/')[-1]} up to date")
+                      except:
+                          repo.create_file(target_path, f"Add {template_file.split('/')[-1]}", content, branch=repo.default_branch)
+                          print(f"  ✅ Created {template_file.split('/')[-1]}")
+                  success += 1
+              except Exception as e:
+                  print(f"  ❌ Error: {e}")
+          
+          print(f"\n✅ Successfully synced {success}/{len(repos)} repositories")
+          EOF
