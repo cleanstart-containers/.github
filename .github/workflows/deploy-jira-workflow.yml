@@ -54,7 +54,7 @@ jobs:
             '''
           
           WORKFLOW_PATH = ".github/workflows/jira-integration.yml"
-          EXCLUDE_REPOS = ['.github','.about-cleanstart-containers']
+          EXCLUDE_REPOS = ['.github','.about-cleanstart-containers','demo-repository','exported-repos']
           
           g = Github(GITHUB_TOKEN)
           org = g.get_organization(ORG_NAME)
