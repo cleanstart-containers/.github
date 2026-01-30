@@ -53,9 +53,9 @@ jobs:
                   JIRA_API_TOKEN: __JIRA_API_TOKEN__
             '''
 
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_BASE_URL__', '${{ secrets.JIRA_BASE_URL }}')
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_USER_EMAIL__', '${{ secrets.JIRA_USER_EMAIL }}')
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_API_TOKEN__', '${{ secrets.JIRA_API_TOKEN }}')
+          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_BASE_URL__', '$${{ secrets.JIRA_BASE_URL }}')
+          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_USER_EMAIL__', '$${{ secrets.JIRA_USER_EMAIL }}')
+          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_API_TOKEN__', '$${{ secrets.JIRA_API_TOKEN }}')
           
           WORKFLOW_PATH = ".github/workflows/jira-integration.yml"
           EXCLUDE_REPOS = ['.github','.about-cleanstart-containers','exported-repos']
