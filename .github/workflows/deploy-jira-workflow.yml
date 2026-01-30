@@ -29,39 +29,15 @@ jobs:
           
           GITHUB_TOKEN = os.environ['GITHUB_TOKEN']
           ORG_NAME = "cleanstart-containers"
-
-          def make_secret_ref(secret_name):
-              return '$' + '{{ secrets.' + secret_name + ' }}'
           
-          # The Jira integration workflow content
-          JIRA_WORKFLOW_CONTENT = '''name: Create Jira Ticket
-            
-            permissions:
-              issues: write
-              contents: read
-            
-            on:
-              issues:
-                types: [opened]
-            
-            jobs:
-              create-ticket:
-                uses: cleanstart-containers/.github/.github/workflows/reusable-jira-integration.yml@main
-                with:
-                  project_key: 'GHRT'
-                  issue_type: 'Task'
-                secrets:
-                  JIRA_BASE_URL: __JIRA_BASE_URL__
-                  JIRA_USER_EMAIL: __JIRA_USER_EMAIL__
-                  JIRA_API_TOKEN: __JIRA_API_TOKEN__
-            '''
-
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_BASE_URL__', make_secret_ref('JIRA_BASE_URL'))
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_USER_EMAIL__', make_secret_ref('JIRA_USER_EMAIL'))
-          JIRA_WORKFLOW_CONTENT = JIRA_WORKFLOW_CONTENT.replace('__JIRA_API_TOKEN__', make_secret_ref('JIRA_API_TOKEN'))
+          # Path to the template file in .github repository
+          TEMPLATE_FILE_PATH = ".github/workflows/jira-integration-template.yml"
           
+          # Path where the workflow will be deployed in target repositories
           WORKFLOW_PATH = ".github/workflows/jira-integration.yml"
-          EXCLUDE_REPOS = ['.github','.about-cleanstart-containers','exported-repos','demo-repository']
+          
+          # Repositories to exclude
+          EXCLUDE_REPOS = ['.github', '.about-cleanstart-containers', 'exported-repos', 'demo-repository']
           
           g = Github(GITHUB_TOKEN)
           org = g.get_organization(ORG_NAME)
@@ -71,6 +47,23 @@ jobs:
           print("=" * 70)
           print()
           
+          # Read the template file from .github repository
+          print("Reading template file from .github repository...")
+          try:
+              source_repo = g.get_repo(f"{ORG_NAME}/.github")
+              template_file = source_repo.get_contents(TEMPLATE_FILE_PATH)
+              workflow_content = template_file.decoded_content.decode('utf-8')
+              print(f"✅ Template file loaded successfully")
+              print(f"   Path: {TEMPLATE_FILE_PATH}")
+              print(f"   Size: {len(workflow_content)} bytes")
+          except Exception as e:
+              print(f"❌ Failed to read template file: {e}")
+              print(f"   Make sure {TEMPLATE_FILE_PATH} exists in the .github repository")
+              exit(1)
+          
+          print()
+          
+          # Get all repositories
           repos = [r for r in org.get_repos() if r.name not in EXCLUDE_REPOS]
           print(f"Found {len(repos)} repositories to process")
           print()
@@ -94,7 +87,7 @@ jobs:
                       repo.create_file(
                           path=WORKFLOW_PATH,
                           message="Add Jira integration workflow",
-                          content=JIRA_WORKFLOW_CONTENT,
+                          content=workflow_content,
                           branch=repo.default_branch
                       )
                       print(f"  ✅ Created jira-integration.yml")
