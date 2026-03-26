@@ -2,7 +2,10 @@
 
 ## Image Version
 
-*Last updated: 2026-03-25*
+*Last updated: 2026-03-26*
+
+[View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/.github/profile/VULNERABILITY_SCAN.md)
+
 
 | # | Image Name | Current Version | Upgraded On | Previous Version |
 |---|------------|----------------|-------------|-----------------|
@@ -25,7 +28,7 @@
 | 17 | `curl` | `8.19.0` | 2026-03-25 | `8.18.0` |
 | 18 | `dotnet-sdk` | `10.0.103` | 2026-03-25 | `N/A` |
 | 19 | `envoy` | `1.37.0` | 2026-03-25 | `N/A` |
-| 20 | `external-secrets` | `2.1.0` | 2026-03-25 | `2.0.1` |
+| 20 | `external-secrets` | `2.2.0` | 2026-03-26 | `2.1.0` |
 | 21 | `glibc` | `2.42` | 2026-03-09 | `N/A` |
 | 22 | `go` | `1.26.1` | 2026-03-25 | `1.26.0` |
 | 23 | `helm` | `4.1.3` | 2026-03-25 | `4.1.1` |
@@ -34,7 +37,7 @@
 | 26 | `jre` | `25.0.1_p8` | 2026-03-09 | `N/A` |
 | 27 | `kafka` | `4.1.1` | 2026-03-09 | `N/A` |
 | 28 | `kube-proxy` | `1.35.2` | 2026-03-25 | `1.35.0` |
-| 29 | `kube-vip` | `1.1.0` | 2026-03-25 | `1.0.4` |
+| 29 | `kube-vip` | `1.1.1` | 2026-03-26 | `1.1.0` |
 | 30 | `kubectl` | `1.34.2` | 2026-03-09 | `N/A` |
 | 31 | `kyverno-background-controller` | `1.17.1` | 2026-03-09 | `N/A` |
 | 32 | `kyverno-kyvernopre` | `1.17.1` | 2026-03-09 | `N/A` |
@@ -58,7 +61,7 @@
 | 50 | `sqlite3` | `3.51.2` | 2026-03-09 | `N/A` |
 | 51 | `stakater-reloader` | `1.4.14` | 2026-03-25 | `1.4.13` |
 | 52 | `step-cli` | `0.30.2` | 2026-03-25 | `0.29.0` |
-| 53 | `step-issuer` | `0.9.11` | 2026-03-09 | `N/A` |
+| 53 | `step-issuer` | `0.10.2` | 2026-03-26 | `0.9.11` |
 | 54 | `stunnel` | `5.76` | 2026-03-09 | `N/A` |
 | 55 | `temurin` | `17.0.18` | 2026-03-09 | `N/A` |
 | 56 | `thanos` | `0.41.0` | 2026-03-09 | `N/A` |
