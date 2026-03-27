@@ -4,7 +4,7 @@
 
 *Last updated: 2026-03-26*
 
-[View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/.github/profile/VULNERABILITY_SCAN.md)
+[View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/profile/VULNERABILITY_SCAN.md)
 
 
 | # | Image Name | Current Version | Upgraded On | Previous Version |
