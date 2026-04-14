@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-04-13*
+*Last updated: 2026-04-14*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -20,7 +20,7 @@
 | 9 | `cert-manager-controller` | `1.20.1` | 2026-04-08 | `1.20.0` |
 | 10 | `cert-manager-startupapicheck` | `1.20.1` | 2026-04-08 | `1.20.0` |
 | 11 | `cert-manager-webhook` | `1.20.1` | 2026-04-08 | `1.20.0` |
-| 12 | `cloudnative-pg` | `1.28.1` | 2026-03-09 | `N/A` |
+| 12 | `cloudnative-pg` | `1.29.0` | 2026-04-14 | `1.28.1` |
 | 13 | `configmap-reload` | `0.15.0` | 2026-03-25 | `N/A` |
 | 14 | `consul` | `1.22.0` | 2026-03-25 | `N/A` |
 | 15 | `cortex` | `1.20.1` | 2026-03-09 | `N/A` |
@@ -78,9 +78,9 @@
 | 67 | `temurin` | `17.0.18` | 2026-03-09 | `N/A` |
 | 68 | `thanos` | `0.41.0` | 2026-03-09 | `N/A` |
 | 69 | `tigera-operator` | `1.41.1` | 2026-03-09 | `N/A` |
-| 70 | `tomcat` | `11.0.15` | 2026-03-09 | `N/A` |
+| 70 | `tomcat` | `11.0.21` | 2026-04-14 | `11.0.15` |
 | 71 | `trust-manager` | `0.22.0` | 2026-03-25 | `0.21.1` |
-| 72 | `valkey` | `9.0.2` | 2026-03-09 | `N/A` |
+| 72 | `valkey` | `9.0.3` | 2026-04-14 | `9.0.2` |
 | 73 | `vault-k8s` | `1.7.3` | 2026-03-25 | `1.7.2` |
 | 74 | `velero-plugin-for-aws` | `1.14.0` | 2026-03-25 | `1.13.2` |
 | 75 | `velero-plugin-for-csi` | `0.7.1` | 2026-03-09 | `N/A` |
