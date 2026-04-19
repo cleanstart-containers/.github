@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-04-17*
+*Last updated: 2026-04-19*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -22,7 +22,7 @@
 | 11 | `cert-manager-webhook` | `1.20.1` | 2026-04-08 | `1.20.0` |
 | 12 | `cloudnative-pg` | `1.29.0` | 2026-04-14 | `1.28.1` |
 | 13 | `configmap-reload` | `0.15.0` | 2026-03-25 | `N/A` |
-| 14 | `consul` | `1.22.0` | 2026-03-25 | `N/A` |
+| 14 | `consul` | `1.22.6` | 2026-04-19 | `1.22.0` |
 | 15 | `cortex` | `1.20.1` | 2026-03-09 | `N/A` |
 | 16 | `cosign` | `3.0.5` | 2026-03-09 | `N/A` |
 | 17 | `curl` | `8.19.0` | 2026-03-25 | `8.18.0` |
