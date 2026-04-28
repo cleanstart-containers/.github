@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-04-27*
+*Last updated: 2026-04-28*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -36,8 +36,8 @@
 | 25 | `haproxy` | `3.3.6` | 2026-04-16 | `3.3.0` |
 | 26 | `helm` | `4.1.4` | 2026-04-23 | `4.1.3` |
 | 27 | `helm-operator` | `1.42.2` | 2026-03-25 | `1.42.1` |
-| 28 | `jdk` | `25.0.1_p8` | 2026-03-09 | `N/A` |
-| 29 | `jre` | `25.0.1_p8` | 2026-03-09 | `N/A` |
+| 28 | `jdk` | `26_p35` | 2026-04-28 | `25.0.1_p8` |
+| 29 | `jre` | `26_p35` | 2026-04-28 | `25.0.1_p8` |
 | 30 | `kafka` | `4.1.1` | 2026-03-09 | `N/A` |
 | 31 | `keycloak` | `26.5.6` | 2026-04-06 | `N/A` |
 | 32 | `kube-proxy` | `1.35.3` | 2026-04-23 | `1.35.2` |
