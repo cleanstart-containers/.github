@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-05-06*
+*Last updated: 2026-05-07*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -73,7 +73,7 @@
 | 62 | `sealed-secrets-controller` | `0.36.1` | 2026-04-07 | `N/A` |
 | 63 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
 | 64 | `sqlite3` | `3.51.2` | 2026-03-09 | `N/A` |
-| 65 | `stakater-reloader` | `1.4.14` | 2026-03-25 | `1.4.13` |
+| 65 | `stakater-reloader` | `1.4.16` | 2026-05-07 | `1.4.14` |
 | 66 | `step-cli` | `0.30.2` | 2026-03-25 | `0.29.0` |
 | 67 | `step-issuer` | `0.10.2` | 2026-03-26 | `0.9.11` |
 | 68 | `stunnel` | `5.77` | 2026-04-16 | `5.76` |
@@ -81,7 +81,7 @@
 | 70 | `thanos` | `0.41.0` | 2026-03-09 | `N/A` |
 | 71 | `tigera-operator` | `1.41.1` | 2026-03-09 | `N/A` |
 | 72 | `tomcat` | `11.0.21` | 2026-04-14 | `11.0.15` |
-| 73 | `trust-manager` | `0.22.0` | 2026-03-25 | `0.21.1` |
+| 73 | `trust-manager` | `0.22.1` | 2026-05-07 | `0.22.0` |
 | 74 | `valkey` | `9.0.3` | 2026-04-14 | `9.0.2` |
 | 75 | `vault` | `1.21.2` | 2026-04-23 | `N/A` |
 | 76 | `vault-k8s` | `1.7.3` | 2026-03-25 | `1.7.2` |
