@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-06-02*
+*Last updated: 2026-06-03*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -65,7 +65,7 @@
 | 54 | `mysql` | `9.7.0` | 2026-05-26 | `9.5.0` |
 | 55 | `nats` | `2.14.1` | 2026-05-28 | `2.14.0` |
 | 56 | `nginx` | `1.31.1` | 2026-05-30 | `1.31.0` |
-| 57 | `node` | `26.2.0` | 2026-05-28 | `25.8.1` |
+| 57 | `node` | `26.3.0` | 2026-06-03 | `26.2.0` |
 | 58 | `openldap` | `2.6.13` | 2026-04-08 | `2.6.12` |
 | 59 | `openscap` | `1.4.2` | 2026-05-14 | `N/A` |
 | 60 | `opentelemetry-collector-contrib` | `0.150.0` | 2026-05-27 | `0.149.0` |
@@ -101,4 +101,5 @@
 | 90 | `velero-plugin-for-csi` | `0.7.1` | 2026-03-09 | `N/A` |
 | 91 | `wait-for-it` | `0.20200823` | 2026-04-23 | `N/A` |
 | 92 | `wave` | `0.11.0` | 2026-03-25 | `0.10.0` |
+| 93 | `zookeeper` | `3.9.5` | 2026-06-03 | `N/A` |
 
