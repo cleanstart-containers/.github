@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-06-07*
+*Last updated: 2026-06-08*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
