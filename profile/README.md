@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-06-20*
+*Last updated: 2026-06-21*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -86,7 +86,7 @@
 | 75 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
 | 76 | `redis-exporter` | `1.85.0` | 2026-06-06 | `1.84.0` |
 | 77 | `ruby` | `4.0.5` | 2026-05-27 | `3.4.7` |
-| 78 | `rust` | `1.95.0` | 2026-05-27 | `1.94.0` |
+| 78 | `rust` | `1.96.0` | 2026-06-21 | `1.95.0` |
 | 79 | `sealed-secrets-controller` | `0.37.0` | 2026-05-27 | `0.36.1` |
 | 80 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
 | 81 | `spring-boot` | `4.0.5` | 2026-06-05 | `N/A` |
