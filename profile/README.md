@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-06-21*
+*Last updated: 2026-06-22*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -31,7 +31,7 @@
 | 20 | `curl` | `8.20.0` | 2026-05-06 | `8.19.0` |
 | 21 | `dotnet-runtime` | `10.0.300` | 2026-05-28 | `10.0.202` |
 | 22 | `dotnet-sdk` | `10.0.300` | 2026-05-28 | `10.0.103` |
-| 23 | `elasticsearch` | `9.3.5` | 2026-06-06 | `9.3.3` |
+| 23 | `elasticsearch` | `9.4.2` | 2026-06-22 | `9.3.5` |
 | 24 | `envoy` | `1.37.1` | 2026-04-23 | `1.37.0` |
 | 25 | `etcd` | `3.6.12` | 2026-06-10 | `3.6.10` |
 | 26 | `external-secrets` | `2.6.0` | 2026-06-09 | `2.5.0` |
