@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-06-25*
+*Last updated: 2026-06-26*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -76,7 +76,7 @@
 | 65 | `pgbouncer` | `1.25.2` | 2026-05-27 | `1.25.1` |
 | 66 | `php` | `8.5.4` | 2026-05-28 | `N/A` |
 | 67 | `postgres` | `18.4` | 2026-05-28 | `18.1` |
-| 68 | `prometheus` | `3.11.3` | 2026-05-27 | `3.11.0` |
+| 68 | `prometheus` | `3.12.0` | 2026-06-26 | `3.11.3` |
 | 69 | `prometheus-mysqld-exporter` | `0.19.0` | 2026-06-06 | `N/A` |
 | 70 | `prometheus-node-exporter` | `1.11.1` | 2026-06-06 | `N/A` |
 | 71 | `python` | `3.14.6` | 2026-06-18 | `3.14.5` |
