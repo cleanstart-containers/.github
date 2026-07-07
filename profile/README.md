@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-06*
+*Last updated: 2026-07-07*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -44,7 +44,7 @@
 | 33 | `haproxy` | `3.4.0` | 2026-06-18 | `3.3.6` |
 | 34 | `heartbeat` | `9.4.3` | 2026-07-04 | `9.4.2` |
 | 35 | `helm` | `4.2.2` | 2026-06-19 | `4.2.1` |
-| 36 | `helm-operator` | `1.42.2` | 2026-03-25 | `1.42.1` |
+| 36 | `helm-operator` | `1.42.3` | 2026-07-07 | `1.42.2` |
 | 37 | `jdk` | `26.0.1_p8` | 2026-06-06 | `26_p35` |
 | 38 | `jre` | `26.0.1_p8` | 2026-06-06 | `26_p35` |
 | 39 | `k8s-sidecar` | `2.8.1` | 2026-07-05 | `2.8.0` |
@@ -76,13 +76,13 @@
 | 65 | `openscap` | `1.4.2` | 2026-05-14 | `N/A` |
 | 66 | `opentelemetry-collector-contrib` | `0.155.0` | 2026-06-30 | `0.150.0` |
 | 67 | `pgbouncer` | `1.25.2` | 2026-05-27 | `1.25.1` |
-| 68 | `php` | `8.5.7` | 2026-07-01 | `8.5.4` |
+| 68 | `php` | `8.5.8` | 2026-07-07 | `8.5.7` |
 | 69 | `postgres` | `18.4` | 2026-05-28 | `18.1` |
 | 70 | `prometheus` | `3.12.0` | 2026-06-26 | `3.11.3` |
 | 71 | `prometheus-mysqld-exporter` | `0.19.0` | 2026-06-06 | `N/A` |
 | 72 | `prometheus-node-exporter` | `1.11.1` | 2026-06-06 | `N/A` |
 | 73 | `python` | `3.14.6` | 2026-06-18 | `3.14.5` |
-| 74 | `rabbitmq-cluster-operator` | `2.22.0` | 2026-07-04 | `2.21.1` |
+| 74 | `rabbitmq-cluster-operator` | `2.22.1` | 2026-07-07 | `2.22.0` |
 | 75 | `rabbitmq-messaging-topology-operator` | `1.19.3` | 2026-06-18 | `1.19.2` |
 | 76 | `rclone` | `1.74.3` | 2026-06-09 | `1.74.2` |
 | 77 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
