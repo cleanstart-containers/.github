@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-12*
+*Last updated: 2026-07-13*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -74,7 +74,7 @@
 | 63 | `node` | `26.5.0` | 2026-07-11 | `26.4.0` |
 | 64 | `openldap` | `2.6.13` | 2026-04-08 | `2.6.12` |
 | 65 | `openscap` | `1.4.4` | 2026-07-10 | `1.4.2` |
-| 66 | `opentelemetry-collector-contrib` | `0.155.0` | 2026-06-30 | `0.150.0` |
+| 66 | `opentelemetry-collector-contrib` | `0.156.0` | 2026-07-13 | `0.155.0` |
 | 67 | `pgbouncer` | `1.25.2` | 2026-05-27 | `1.25.1` |
 | 68 | `php` | `8.5.8` | 2026-07-07 | `8.5.7` |
 | 69 | `postgres` | `18.4` | 2026-05-28 | `18.1` |
