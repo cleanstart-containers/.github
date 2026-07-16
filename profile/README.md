@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-15*
+*Last updated: 2026-07-16*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -13,7 +13,7 @@
 | 2 | `argo-workflow-exec` | `4.0.7` | 2026-07-10 | `4.0.6` |
 | 3 | `argocd-extension-installer` | `1.0.1` | 2026-06-30 | `1.0.0` |
 | 4 | `aspnet-runtime` | `10.0.301` | 2026-06-24 | `10.0.300` |
-| 5 | `aws-cli` | `2.35.19` | 2026-07-11 | `2.35.16` |
+| 5 | `aws-cli` | `2.35.23` | 2026-07-16 | `2.35.19` |
 | 6 | `azure-cli` | `2.88.0` | 2026-07-12 | `2.87.0` |
 | 7 | `busybox` | `1.37.0` | 2026-03-09 | `N/A` |
 | 8 | `cadvisor` | `0.60.3` | 2026-07-03 | `0.60.2` |
@@ -88,7 +88,7 @@
 | 77 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
 | 78 | `redis-exporter` | `1.86.0` | 2026-06-30 | `1.85.0` |
 | 79 | `ruby` | `4.0.5` | 2026-05-27 | `3.4.7` |
-| 80 | `rust` | `1.96.1` | 2026-07-10 | `1.96.0` |
+| 80 | `rust` | `1.97.0` | 2026-07-16 | `1.96.1` |
 | 81 | `sealed-secrets-controller` | `0.38.4` | 2026-07-12 | `0.38.1` |
 | 82 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
 | 83 | `spring-boot` | `4.1.0` | 2026-06-24 | `4.0.5` |
