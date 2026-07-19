@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-18*
+*Last updated: 2026-07-19*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -55,8 +55,8 @@
 | 44 | `kube-state-metrics` | `2.19.1` | 2026-06-19 | `2.18.0` |
 | 45 | `kube-vip` | `1.2.1` | 2026-06-27 | `1.2.0` |
 | 46 | `kubectl` | `1.36.2` | 2026-06-18 | `1.36.1` |
-| 47 | `kyverno-background-controller` | `1.18.1` | 2026-05-22 | `1.18.0` |
-| 48 | `kyverno-kyvernopre` | `1.18.1` | 2026-05-22 | `1.18.0` |
+| 47 | `kyverno-background-controller` | `1.18.2` | 2026-07-19 | `1.18.1` |
+| 48 | `kyverno-kyvernopre` | `1.18.2` | 2026-07-19 | `1.18.1` |
 | 49 | `logstash-exporter` | `1.9.1` | 2026-03-09 | `N/A` |
 | 50 | `loki` | `3.7.3` | 2026-06-30 | `3.7.1` |
 | 51 | `mariadb` | `13.0.1` | 2026-07-01 | `12.3.1` |
@@ -87,7 +87,7 @@
 | 76 | `rclone` | `1.74.4` | 2026-07-10 | `1.74.3` |
 | 77 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
 | 78 | `redis-exporter` | `1.86.0` | 2026-06-30 | `1.85.0` |
-| 79 | `ruby` | `4.0.5` | 2026-05-27 | `3.4.7` |
+| 79 | `ruby` | `4.0.6` | 2026-07-19 | `4.0.5` |
 | 80 | `rust` | `1.97.0` | 2026-07-16 | `1.96.1` |
 | 81 | `sealed-secrets-controller` | `0.38.4` | 2026-07-12 | `0.38.1` |
 | 82 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
