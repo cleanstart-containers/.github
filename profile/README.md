@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-19*
+*Last updated: 2026-07-20*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -83,7 +83,7 @@
 | 72 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
 | 73 | `python` | `3.14.6` | 2026-06-18 | `3.14.5` |
 | 74 | `rabbitmq-cluster-operator` | `2.22.2` | 2026-07-18 | `2.22.1` |
-| 75 | `rabbitmq-messaging-topology-operator` | `1.19.3` | 2026-06-18 | `1.19.2` |
+| 75 | `rabbitmq-messaging-topology-operator` | `1.20.0` | 2026-07-20 | `1.19.3` |
 | 76 | `rclone` | `1.74.4` | 2026-07-10 | `1.74.3` |
 | 77 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
 | 78 | `redis-exporter` | `1.86.0` | 2026-06-30 | `1.85.0` |
