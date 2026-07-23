@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-22*
+*Last updated: 2026-07-23*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -102,7 +102,7 @@
 | 91 | `tigera-operator` | `1.42.4` | 2026-07-08 | `1.42.3` |
 | 92 | `tomcat` | `11.0.24` | 2026-07-08 | `11.0.23` |
 | 93 | `trust-manager` | `0.24.0` | 2026-06-30 | `0.22.1` |
-| 94 | `valkey` | `9.1.0` | 2026-05-27 | `9.0.3` |
+| 94 | `valkey` | `9.1.1` | 2026-07-23 | `9.1.0` |
 | 95 | `valkey-sentinel` | `9.1.0` | 2026-05-31 | `N/A` |
 | 96 | `vault` | `2.0.3` | 2026-06-19 | `2.0.2` |
 | 97 | `vault-k8s` | `1.7.5` | 2026-07-01 | `1.7.4` |
