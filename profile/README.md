@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-07-28*
+*Last updated: 2026-07-29*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -67,7 +67,7 @@
 | 56 | `metricbeat` | `9.4.4` | 2026-07-25 | `9.4.3` |
 | 57 | `minio` | `0.20260330.001845` | 2026-04-16 | `0.20251015.172955` |
 | 58 | `minio-operator-sidecar` | `7.1.1` | 2026-03-09 | `N/A` |
-| 59 | `mongodb` | `8.3.4` | 2026-06-18 | `8.3.2` |
+| 59 | `mongodb` | `8.3.7` | 2026-07-29 | `8.3.4` |
 | 60 | `mysql` | `9.7.1` | 2026-07-01 | `9.7.0` |
 | 61 | `nats` | `2.14.3` | 2026-07-01 | `2.14.2` |
 | 62 | `nginx` | `1.31.3` | 2026-07-17 | `1.31.2` |
@@ -85,7 +85,7 @@
 | 74 | `rabbitmq-cluster-operator` | `2.22.3` | 2026-07-21 | `2.22.2` |
 | 75 | `rabbitmq-messaging-topology-operator` | `1.20.0` | 2026-07-20 | `1.19.3` |
 | 76 | `rclone` | `1.74.4` | 2026-07-10 | `1.74.3` |
-| 77 | `redis` | `8.8.0` | 2026-06-19 | `8.6.4` |
+| 77 | `redis` | `8.8.1` | 2026-07-29 | `8.8.0` |
 | 78 | `redis-exporter` | `1.88.0` | 2026-07-25 | `1.86.0` |
 | 79 | `ruby` | `4.0.6` | 2026-07-19 | `4.0.5` |
 | 80 | `rust` | `1.97.0` | 2026-07-16 | `1.96.1` |
