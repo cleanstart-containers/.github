@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-08-11*
+*Last updated: 2026-08-12*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -13,7 +13,7 @@
 | 2 | `argo-workflow-exec` | `4.0.8` | 2026-07-24 | `4.0.7` |
 | 3 | `argocd-extension-installer` | `1.0.1` | 2026-06-30 | `1.0.0` |
 | 4 | `aspnet-runtime` | `10.0.302` | 2026-07-28 | `10.0.301` |
-| 5 | `aws-cli` | `2.36.17` | 2026-08-10 | `2.36.14` |
+| 5 | `aws-cli` | `2.36.19` | 2026-08-12 | `2.36.17` |
 | 6 | `azure-cli` | `2.89.0` | 2026-08-10 | `2.88.0` |
 | 7 | `busybox` | `1.38.0` | 2026-08-09 | `1.37.0` |
 | 8 | `cadvisor` | `0.60.5` | 2026-07-17 | `0.60.3` |
@@ -24,7 +24,7 @@
 | 13 | `cert-manager-webhook` | `1.21.1` | 2026-08-04 | `1.21.0` |
 | 14 | `cloudnative-pg` | `1.30.0` | 2026-07-01 | `1.29.1` |
 | 15 | `configmap-reload` | `0.15.0` | 2026-03-25 | `N/A` |
-| 16 | `consul` | `2.0.2` | 2026-07-09 | `2.0.1` |
+| 16 | `consul` | `2.0.3` | 2026-08-12 | `2.0.2` |
 | 17 | `cortex` | `1.21.1` | 2026-06-09 | `1.21.0` |
 | 18 | `cosign` | `3.1.3` | 2026-08-08 | `3.1.2` |
 | 19 | `crane` | `0.21.9` | 2026-08-08 | `0.21.8` |
@@ -81,12 +81,12 @@
 | 70 | `prometheus` | `3.13.1` | 2026-07-21 | `3.13.0` |
 | 71 | `prometheus-mysqld-exporter` | `0.19.0` | 2026-06-06 | `N/A` |
 | 72 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
-| 73 | `python` | `3.14.6` | 2026-06-18 | `3.14.5` |
-| 74 | `rabbitmq-cluster-operator` | `2.22.3` | 2026-07-21 | `2.22.2` |
-| 75 | `rabbitmq-messaging-topology-operator` | `1.20.0` | 2026-07-20 | `1.19.3` |
+| 73 | `python` | `3.14.7` | 2026-08-12 | `3.14.6` |
+| 74 | `rabbitmq-cluster-operator` | `2.22.4` | 2026-08-12 | `2.22.3` |
+| 75 | `rabbitmq-messaging-topology-operator` | `1.20.1` | 2026-08-12 | `1.20.0` |
 | 76 | `rclone` | `1.75.0` | 2026-08-04 | `1.74.4` |
 | 77 | `redis` | `8.10.0` | 2026-08-04 | `8.8.1` |
-| 78 | `redis-exporter` | `1.88.0` | 2026-07-25 | `1.86.0` |
+| 78 | `redis-exporter` | `1.89.0` | 2026-08-12 | `1.88.0` |
 | 79 | `ruby` | `4.0.6` | 2026-07-19 | `4.0.5` |
 | 80 | `rust` | `1.97.0` | 2026-07-16 | `1.96.1` |
 | 81 | `sealed-secrets-controller` | `0.38.4` | 2026-07-12 | `0.38.1` |
