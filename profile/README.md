@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-08-23*
+*Last updated: 2026-08-24*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -13,7 +13,7 @@
 | 2 | `argo-workflow-exec` | `4.1.0` | 2026-08-14 | `4.0.8` |
 | 3 | `argocd-extension-installer` | `1.0.1` | 2026-06-30 | `1.0.0` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
-| 5 | `aws-cli` | `2.36.25` | 2026-08-20 | `2.36.24` |
+| 5 | `aws-cli` | `2.36.29` | 2026-08-24 | `2.36.25` |
 | 6 | `azure-cli` | `2.89.1` | 2026-08-13 | `2.89.0` |
 | 7 | `bash` | `5.2.26` | 2026-08-19 | `N/A` |
 | 8 | `busybox` | `1.38.0` | 2026-08-09 | `1.37.0` |
