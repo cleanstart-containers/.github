@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-10*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -79,7 +79,7 @@
 | 68 | `pgbouncer` | `1.25.2` | 2026-05-27 | `1.25.1` |
 | 69 | `php` | `8.5.8` | 2026-07-07 | `8.5.7` |
 | 70 | `postgres` | `18.6` | 2026-08-19 | `18.4` |
-| 71 | `prometheus` | `3.13.1` | 2026-07-21 | `3.13.0` |
+| 71 | `prometheus` | `3.14.0` | 2026-09-10 | `3.13.1` |
 | 72 | `prometheus-mysqld-exporter` | `0.20.0` | 2026-08-15 | `0.19.0` |
 | 73 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
 | 74 | `python` | `3.14.7` | 2026-08-12 | `3.14.6` |
@@ -90,7 +90,7 @@
 | 79 | `redis-exporter` | `1.90.0` | 2026-08-30 | `1.89.0` |
 | 80 | `ruby` | `4.0.6` | 2026-07-19 | `4.0.5` |
 | 81 | `rust` | `1.97.1` | 2026-08-16 | `1.97.0` |
-| 82 | `sealed-secrets-controller` | `0.38.4` | 2026-07-12 | `0.38.1` |
+| 82 | `sealed-secrets-controller` | `0.39.1` | 2026-09-10 | `0.38.4` |
 | 83 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
 | 84 | `spring-boot` | `4.1.1` | 2026-08-22 | `4.1.0` |
 | 85 | `sqlite3` | `3.53.4` | 2026-08-15 | `3.53.3` |
