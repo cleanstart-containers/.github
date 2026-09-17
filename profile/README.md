@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-09-16*
+*Last updated: 2026-09-17*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -48,7 +48,7 @@
 | 37 | `helm-operator` | `1.42.3` | 2026-07-07 | `1.42.2` |
 | 38 | `jdk` | `26.0.2_p10` | 2026-08-04 | `26.0.1_p8` |
 | 39 | `jre` | `26.0.2_p10` | 2026-08-04 | `26.0.1_p8` |
-| 40 | `k8s-sidecar` | `2.10.3` | 2026-08-30 | `2.10.1` |
+| 40 | `k8s-sidecar` | `2.11.0` | 2026-09-17 | `2.10.3` |
 | 41 | `kafka` | `4.3.1` | 2026-08-22 | `4.3.0` |
 | 42 | `keycloak` | `26.7.3` | 2026-09-02 | `26.7.2` |
 | 43 | `kong` | `3.9.3` | 2026-07-04 | `N/A` |
