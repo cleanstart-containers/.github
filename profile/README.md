@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-09-17*
+*Last updated: 2026-09-18*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -10,7 +10,7 @@
 | # | Image Name | Current Version | Upgraded On | Previous Version |
 |---|------------|----------------|-------------|-----------------|
 | 1 | `apko` | `1.2.15` | 2026-06-06 | `1.2.13` |
-| 2 | `argo-workflow-exec` | `4.1.0` | 2026-08-14 | `4.0.8` |
+| 2 | `argo-workflow-exec` | `4.1.3` | 2026-09-18 | `4.1.0` |
 | 3 | `argocd-extension-installer` | `1.0.1` | 2026-06-30 | `1.0.0` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
 | 5 | `aws-cli` | `2.36.36` | 2026-09-02 | `2.36.34` |
