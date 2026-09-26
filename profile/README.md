@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-09-25*
+*Last updated: 2026-09-26*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -13,7 +13,7 @@
 | 2 | `argo-workflow-exec` | `4.1.4` | 2026-09-23 | `4.1.3` |
 | 3 | `argocd-extension-installer` | `1.0.1` | 2026-06-30 | `1.0.0` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
-| 5 | `aws-cli` | `2.36.50` | 2026-09-24 | `2.36.49` |
+| 5 | `aws-cli` | `2.37.1` | 2026-09-26 | `2.36.50` |
 | 6 | `azure-cli` | `2.90.0` | 2026-09-02 | `2.89.1` |
 | 7 | `bash` | `5.2.26` | 2026-08-19 | `N/A` |
 | 8 | `busybox` | `1.38.0` | 2026-08-09 | `1.37.0` |
@@ -83,7 +83,7 @@
 | 72 | `prometheus-mysqld-exporter` | `0.20.0` | 2026-08-15 | `0.19.0` |
 | 73 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
 | 74 | `python` | `3.14.7` | 2026-08-12 | `3.14.6` |
-| 75 | `rabbitmq-cluster-operator` | `2.22.5` | 2026-09-23 | `2.22.4` |
+| 75 | `rabbitmq-cluster-operator` | `2.23.0` | 2026-09-26 | `2.22.5` |
 | 76 | `rabbitmq-messaging-topology-operator` | `1.20.3` | 2026-09-21 | `1.20.1` |
 | 77 | `rclone` | `1.75.1` | 2026-09-23 | `1.75.0` |
 | 78 | `redis` | `8.10.2` | 2026-09-24 | `8.10.0` |
