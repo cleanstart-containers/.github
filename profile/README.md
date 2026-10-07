@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-06*
+*Last updated: 2026-10-07*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -14,7 +14,7 @@
 | 3 | `argocd-extension-installer` | `1.1.0` | 2026-10-05 | `1.0.1` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
 | 5 | `aws-cli` | `2.37.9` | 2026-10-04 | `2.37.8` |
-| 6 | `azure-cli` | `2.90.0` | 2026-09-02 | `2.89.1` |
+| 6 | `azure-cli` | `2.91.0` | 2026-10-07 | `2.90.0` |
 | 7 | `bash` | `5.2.26` | 2026-08-19 | `N/A` |
 | 8 | `busybox` | `1.38.0` | 2026-08-09 | `1.37.0` |
 | 9 | `cadvisor` | `0.60.6` | 2026-09-24 | `0.60.5` |
@@ -32,7 +32,7 @@
 | 21 | `curl` | `8.22.0` | 2026-09-21 | `8.21.0` |
 | 22 | `dotnet-runtime` | `10.0.401` | 2026-09-25 | `10.0.302` |
 | 23 | `dotnet-sdk` | `10.0.401` | 2026-09-25 | `10.0.302` |
-| 24 | `dynatrace-operator` | `1.10.2` | 2026-08-04 | `1.10.1` |
+| 24 | `dynatrace-operator` | `1.11.0` | 2026-10-07 | `1.10.2` |
 | 25 | `elasticsearch` | `9.5.0` | 2026-08-11 | `9.4.4` |
 | 26 | `envoy` | `1.39.0` | 2026-07-28 | `1.38.3` |
 | 27 | `etcd` | `3.7.2` | 2026-09-30 | `3.7.1` |
