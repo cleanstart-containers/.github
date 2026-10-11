@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-10*
+*Last updated: 2026-10-11*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -10,7 +10,7 @@
 | # | Image Name | Current Version | Upgraded On | Previous Version |
 |---|------------|----------------|-------------|-----------------|
 | 1 | `apko` | `1.2.15` | 2026-06-06 | `1.2.13` |
-| 2 | `argo-workflow-exec` | `4.1.4` | 2026-09-23 | `4.1.3` |
+| 2 | `argo-workflow-exec` | `4.1.5` | 2026-10-11 | `4.1.4` |
 | 3 | `argocd-extension-installer` | `1.1.0` | 2026-10-05 | `1.0.1` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
 | 5 | `aws-cli` | `2.37.11` | 2026-10-10 | `2.37.9` |
@@ -40,7 +40,7 @@
 | 29 | `fluent-bit` | `5.1.3` | 2026-10-03 | `5.1.2` |
 | 30 | `git` | `2.56.0` | 2026-10-03 | `2.55.0` |
 | 31 | `glibc` | `2.43` | 2026-05-13 | `2.42` |
-| 32 | `go` | `1.26.8` | 2026-09-12 | `1.26.6` |
+| 32 | `go` | `1.26.9` | 2026-10-11 | `1.26.8` |
 | 33 | `grafana` | `13.2.3` | 2026-09-30 | `13.2.2` |
 | 34 | `haproxy` | `3.4.0` | 2026-06-18 | `3.3.6` |
 | 35 | `heartbeat` | `9.5.5` | 2026-10-08 | `9.5.4` |
