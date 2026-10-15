@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-14*
+*Last updated: 2026-10-15*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -13,7 +13,7 @@
 | 2 | `argo-workflow-exec` | `4.1.5` | 2026-10-11 | `4.1.4` |
 | 3 | `argocd-extension-installer` | `1.1.0` | 2026-10-05 | `1.0.1` |
 | 4 | `aspnet-runtime` | `11.0.100` | 2026-08-22 | `10.0.302` |
-| 5 | `aws-cli` | `2.37.13` | 2026-10-14 | `2.37.11` |
+| 5 | `aws-cli` | `2.38.0` | 2026-10-15 | `2.37.13` |
 | 6 | `azure-cli` | `2.91.0` | 2026-10-07 | `2.90.0` |
 | 7 | `bash` | `5.2.26` | 2026-08-19 | `N/A` |
 | 8 | `busybox` | `1.38.0` | 2026-08-09 | `1.37.0` |
@@ -52,7 +52,7 @@
 | 41 | `kafka` | `4.3.1` | 2026-08-22 | `4.3.0` |
 | 42 | `keycloak` | `26.8.1` | 2026-10-14 | `26.8.0` |
 | 43 | `kong` | `3.9.3` | 2026-07-04 | `N/A` |
-| 44 | `kube-proxy` | `1.36.4` | 2026-09-24 | `1.36.3` |
+| 44 | `kube-proxy` | `1.37.1` | 2026-10-15 | `1.36.4` |
 | 45 | `kube-state-metrics` | `2.20.0` | 2026-08-20 | `2.19.1` |
 | 46 | `kube-vip` | `1.2.4` | 2026-10-04 | `1.2.1` |
 | 47 | `kubectl` | `1.36.4` | 2026-09-24 | `1.36.3` |
@@ -82,9 +82,9 @@
 | 71 | `prometheus` | `3.15.0` | 2026-09-30 | `3.14.0` |
 | 72 | `prometheus-mysqld-exporter` | `0.20.0` | 2026-08-15 | `0.19.0` |
 | 73 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
-| 74 | `python` | `3.14.8` | 2026-10-03 | `3.14.7` |
+| 74 | `python` | `3.15.0` | 2026-10-15 | `3.14.8` |
 | 75 | `rabbitmq-cluster-operator` | `2.23.0` | 2026-09-26 | `2.22.5` |
-| 76 | `rabbitmq-messaging-topology-operator` | `1.20.3` | 2026-09-21 | `1.20.1` |
+| 76 | `rabbitmq-messaging-topology-operator` | `1.20.4` | 2026-10-15 | `1.20.3` |
 | 77 | `rclone` | `1.75.1` | 2026-09-23 | `1.75.0` |
 | 78 | `redis` | `8.10.2` | 2026-09-24 | `8.10.0` |
 | 79 | `redis-exporter` | `1.93.0` | 2026-10-04 | `1.90.0` |
