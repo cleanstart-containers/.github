@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-21*
+*Last updated: 2026-10-22*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -30,8 +30,8 @@
 | 19 | `cosign` | `3.1.3` | 2026-08-08 | `3.1.2` |
 | 20 | `crane` | `0.22.1` | 2026-09-22 | `0.22.0` |
 | 21 | `curl` | `8.23.0` | 2026-10-17 | `8.22.0` |
-| 22 | `dotnet-runtime` | `10.0.401` | 2026-09-25 | `10.0.302` |
-| 23 | `dotnet-sdk` | `10.0.401` | 2026-09-25 | `10.0.302` |
+| 22 | `dotnet-runtime` | `10.0.402` | 2026-10-22 | `10.0.401` |
+| 23 | `dotnet-sdk` | `10.0.402` | 2026-10-22 | `10.0.401` |
 | 24 | `dynatrace-operator` | `1.11.0` | 2026-10-07 | `1.10.2` |
 | 25 | `elasticsearch` | `9.5.0` | 2026-08-11 | `9.4.4` |
 | 26 | `envoy` | `1.39.0` | 2026-07-28 | `1.38.3` |
@@ -75,7 +75,7 @@
 | 64 | `node` | `26.12.0` | 2026-10-17 | `26.10.0` |
 | 65 | `openldap` | `2.7.1` | 2026-09-23 | `2.7.0` |
 | 66 | `openscap` | `1.4.5` | 2026-10-14 | `1.4.4` |
-| 67 | `opentelemetry-collector-contrib` | `0.161.0` | 2026-10-12 | `0.160.0` |
+| 67 | `opentelemetry-collector-contrib` | `0.163.0` | 2026-10-22 | `0.161.0` |
 | 68 | `pgbouncer` | `1.26.1` | 2026-10-16 | `1.26.0` |
 | 69 | `php` | `8.5.11` | 2026-10-03 | `8.5.8` |
 | 70 | `postgres` | `18.6` | 2026-08-19 | `18.4` |
