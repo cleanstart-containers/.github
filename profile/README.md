@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-22*
+*Last updated: 2026-10-23*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -77,7 +77,7 @@
 | 66 | `openscap` | `1.4.5` | 2026-10-14 | `1.4.4` |
 | 67 | `opentelemetry-collector-contrib` | `0.163.0` | 2026-10-22 | `0.161.0` |
 | 68 | `pgbouncer` | `1.26.1` | 2026-10-16 | `1.26.0` |
-| 69 | `php` | `8.5.11` | 2026-10-03 | `8.5.8` |
+| 69 | `php` | `8.5.12` | 2026-10-23 | `8.5.11` |
 | 70 | `postgres` | `18.6` | 2026-08-19 | `18.4` |
 | 71 | `prometheus` | `3.15.0` | 2026-09-30 | `3.14.0` |
 | 72 | `prometheus-mysqld-exporter` | `0.20.0` | 2026-08-15 | `0.19.0` |
@@ -88,7 +88,7 @@
 | 77 | `rclone` | `1.75.1` | 2026-09-23 | `1.75.0` |
 | 78 | `redis` | `8.10.2` | 2026-09-24 | `8.10.0` |
 | 79 | `redis-exporter` | `1.93.0` | 2026-10-04 | `1.90.0` |
-| 80 | `ruby` | `4.0.7` | 2026-09-23 | `4.0.6` |
+| 80 | `ruby` | `4.0.8` | 2026-10-23 | `4.0.7` |
 | 81 | `rust` | `1.99.0` | 2026-10-18 | `1.98.1` |
 | 82 | `sealed-secrets-controller` | `0.40.0` | 2026-09-21 | `0.39.1` |
 | 83 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
