@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-10-26*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -52,7 +52,7 @@
 | 41 | `k8s-sidecar` | `2.14.1` | 2026-10-10 | `2.13.3` |
 | 42 | `kafka` | `4.3.1` | 2026-08-22 | `4.3.0` |
 | 43 | `keycloak` | `26.8.1` | 2026-10-14 | `26.8.0` |
-| 44 | `kong` | `3.9.3` | 2026-07-04 | `N/A` |
+| 44 | `kong` | `3.9.4` | 2026-10-26 | `3.9.3` |
 | 45 | `kube-proxy` | `1.37.1` | 2026-10-15 | `1.36.4` |
 | 46 | `kube-state-metrics` | `2.20.0` | 2026-08-20 | `2.19.1` |
 | 47 | `kube-vip` | `1.2.4` | 2026-10-04 | `1.2.1` |
