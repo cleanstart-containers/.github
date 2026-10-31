@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-30*
+*Last updated: 2026-10-31*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -61,7 +61,7 @@
 | 50 | `kyverno-kyvernopre` | `1.19.2` | 2026-10-28 | `1.19.1` |
 | 51 | `logstash-exporter` | `1.9.1` | 2026-03-09 | `N/A` |
 | 52 | `loki` | `3.7.9` | 2026-10-28 | `3.7.8` |
-| 53 | `mariadb` | `13.0.1` | 2026-07-01 | `12.3.1` |
+| 53 | `mariadb` | `13.0.2` | 2026-10-31 | `13.0.1` |
 | 54 | `maven` | `3.10.0` | 2026-10-04 | `3.9.16` |
 | 55 | `memcached` | `1.6.45` | 2026-07-11 | `1.6.44` |
 | 56 | `metallb-controller` | `0.16.1` | 2026-05-30 | `0.16.0` |
@@ -84,8 +84,8 @@
 | 73 | `prometheus-mysqld-exporter` | `0.21.0` | 2026-10-29 | `0.20.0` |
 | 74 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
 | 75 | `python` | `3.15.2` | 2026-10-29 | `3.15.1` |
-| 76 | `rabbitmq-cluster-operator` | `2.23.1` | 2026-10-17 | `2.23.0` |
-| 77 | `rabbitmq-messaging-topology-operator` | `1.20.4` | 2026-10-15 | `1.20.3` |
+| 76 | `rabbitmq-cluster-operator` | `2.23.2` | 2026-10-31 | `2.23.1` |
+| 77 | `rabbitmq-messaging-topology-operator` | `1.20.5` | 2026-10-31 | `1.20.4` |
 | 78 | `rclone` | `1.75.2` | 2026-10-25 | `1.75.1` |
 | 79 | `redis` | `8.10.3` | 2026-10-28 | `8.10.2` |
 | 80 | `redis-exporter` | `1.93.0` | 2026-10-04 | `1.90.0` |
