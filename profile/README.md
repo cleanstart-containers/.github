@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-10-31*
+*Last updated: 2026-11-01*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -92,7 +92,7 @@
 | 81 | `ruby` | `4.0.9` | 2026-10-24 | `4.0.8` |
 | 82 | `rust` | `1.99.1` | 2026-10-27 | `1.99.0` |
 | 83 | `sealed-secrets-controller` | `0.40.0` | 2026-09-21 | `0.39.1` |
-| 84 | `solr` | `10.0.0` | 2026-04-16 | `9.10.1` |
+| 84 | `solr` | `10.1.0` | 2026-11-01 | `10.0.0` |
 | 85 | `spring-boot` | `4.1.1` | 2026-08-22 | `4.1.0` |
 | 86 | `sqlite3` | `3.54.0` | 2026-10-18 | `3.53.4` |
 | 87 | `stakater-reloader` | `1.4.22` | 2026-09-21 | `1.4.21` |
