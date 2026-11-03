@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-02*
+*Last updated: 2026-11-03*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -53,10 +53,10 @@
 | 42 | `kafka` | `4.4.0` | 2026-10-29 | `4.3.1` |
 | 43 | `keycloak` | `26.8.1` | 2026-10-14 | `26.8.0` |
 | 44 | `kong` | `3.9.4` | 2026-10-26 | `3.9.3` |
-| 45 | `kube-proxy` | `1.37.1` | 2026-10-15 | `1.36.4` |
+| 45 | `kube-proxy` | `1.37.2` | 2026-11-03 | `1.37.1` |
 | 46 | `kube-state-metrics` | `2.20.0` | 2026-08-20 | `2.19.1` |
 | 47 | `kube-vip` | `1.2.4` | 2026-10-04 | `1.2.1` |
-| 48 | `kubectl` | `1.37.1` | 2026-10-16 | `1.36.4` |
+| 48 | `kubectl` | `1.37.2` | 2026-11-03 | `1.37.1` |
 | 49 | `kyverno-background-controller` | `1.19.2` | 2026-10-28 | `1.19.1` |
 | 50 | `kyverno-kyvernopre` | `1.19.2` | 2026-10-28 | `1.19.1` |
 | 51 | `logstash-exporter` | `1.9.1` | 2026-03-09 | `N/A` |
