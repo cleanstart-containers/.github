@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -66,11 +66,11 @@
 | 55 | `memcached` | `1.6.45` | 2026-07-11 | `1.6.44` |
 | 56 | `metallb-controller` | `0.16.1` | 2026-05-30 | `0.16.0` |
 | 57 | `metallb-speaker` | `0.16.1` | 2026-05-30 | `0.16.0` |
-| 58 | `metricbeat` | `9.5.5` | 2026-10-08 | `9.5.4` |
+| 58 | `metricbeat` | `9.5.6` | 2026-11-05 | `9.5.5` |
 | 59 | `minio` | `0.20260330.001845` | 2026-04-16 | `0.20251015.172955` |
 | 60 | `minio-operator-sidecar` | `7.1.1` | 2026-03-09 | `N/A` |
 | 61 | `mongodb` | `9.0.4` | 2026-10-16 | `8.3.11` |
-| 62 | `mysql` | `9.7.2` | 2026-08-08 | `9.7.1` |
+| 62 | `mysql` | `9.7.4` | 2026-11-05 | `9.7.2` |
 | 63 | `nats` | `2.15.0` | 2026-10-04 | `2.14.6` |
 | 64 | `nginx` | `1.31.8` | 2026-10-24 | `1.31.6` |
 | 65 | `node` | `26.12.1` | 2026-10-25 | `26.12.0` |
