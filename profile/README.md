@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-06*
+*Last updated: 2026-11-07*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -80,7 +80,7 @@
 | 69 | `pgbouncer` | `1.26.1` | 2026-10-16 | `1.26.0` |
 | 70 | `php` | `8.5.12` | 2026-10-23 | `8.5.11` |
 | 71 | `postgres` | `18.6` | 2026-08-19 | `18.4` |
-| 72 | `prometheus` | `3.15.1` | 2026-10-29 | `3.15.0` |
+| 72 | `prometheus` | `3.16.0` | 2026-11-07 | `3.15.1` |
 | 73 | `prometheus-mysqld-exporter` | `0.21.0` | 2026-10-29 | `0.20.0` |
 | 74 | `prometheus-node-exporter` | `1.12.1` | 2026-07-17 | `1.11.1` |
 | 75 | `python` | `3.15.2` | 2026-10-29 | `3.15.1` |
@@ -95,7 +95,7 @@
 | 84 | `solr` | `10.1.0` | 2026-11-01 | `10.0.0` |
 | 85 | `spring-boot` | `4.1.2` | 2026-11-04 | `4.1.1` |
 | 86 | `sqlite3` | `3.54.0` | 2026-10-18 | `3.53.4` |
-| 87 | `stakater-reloader` | `1.4.22` | 2026-09-21 | `1.4.21` |
+| 87 | `stakater-reloader` | `1.4.23` | 2026-11-07 | `1.4.22` |
 | 88 | `step-cli` | `0.31.0` | 2026-10-04 | `0.30.6` |
 | 89 | `step-issuer` | `0.12.0` | 2026-07-04 | `0.11.0` |
 | 90 | `stunnel` | `5.82` | 2026-09-23 | `5.80` |
