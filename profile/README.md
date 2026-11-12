@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-11*
+*Last updated: 2026-11-12*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -41,7 +41,7 @@
 | 30 | `fluent-bit` | `5.1.5` | 2026-10-24 | `5.1.3` |
 | 31 | `git` | `2.56.0` | 2026-10-03 | `2.55.0` |
 | 32 | `glibc` | `2.44` | 2026-10-21 | `2.43` |
-| 33 | `go` | `1.26.10` | 2026-10-24 | `1.26.9` |
+| 33 | `go` | `1.26.11` | 2026-11-12 | `1.26.10` |
 | 34 | `grafana` | `13.3.0` | 2026-11-04 | `13.2.4` |
 | 35 | `haproxy` | `3.4.0` | 2026-06-18 | `3.3.6` |
 | 36 | `heartbeat` | `9.5.6` | 2026-11-04 | `9.5.5` |
