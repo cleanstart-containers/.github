@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-13*
+*Last updated: 2026-11-14*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -106,7 +106,7 @@
 | 95 | `trust-manager` | `0.26.0` | 2026-10-29 | `0.25.0` |
 | 96 | `valkey` | `9.1.3` | 2026-10-28 | `9.1.2` |
 | 97 | `valkey-sentinel` | `9.1.3` | 2026-10-28 | `9.1.2` |
-| 98 | `vault` | `2.2.1` | 2026-10-25 | `2.1.1` |
+| 98 | `vault` | `2.2.2` | 2026-11-14 | `2.2.1` |
 | 99 | `vault-k8s` | `1.7.6` | 2026-08-13 | `1.7.5` |
 | 100 | `velero-plugin-for-aws` | `1.14.4` | 2026-10-04 | `1.14.2` |
 | 101 | `velero-plugin-for-csi` | `0.7.1` | 2026-03-09 | `N/A` |
