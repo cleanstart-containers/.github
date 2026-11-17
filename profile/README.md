@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-16*
+*Last updated: 2026-11-17*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -60,7 +60,7 @@
 | 49 | `kyverno-background-controller` | `1.19.2` | 2026-10-28 | `1.19.1` |
 | 50 | `kyverno-kyvernopre` | `1.19.2` | 2026-10-28 | `1.19.1` |
 | 51 | `logstash-exporter` | `1.9.1` | 2026-03-09 | `N/A` |
-| 52 | `loki` | `3.7.9` | 2026-10-28 | `3.7.8` |
+| 52 | `loki` | `3.7.10` | 2026-11-17 | `3.7.9` |
 | 53 | `mariadb` | `13.0.2` | 2026-10-31 | `13.0.1` |
 | 54 | `maven` | `3.10.0` | 2026-10-04 | `3.9.16` |
 | 55 | `memcached` | `1.6.45` | 2026-07-11 | `1.6.44` |
