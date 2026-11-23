@@ -2,7 +2,7 @@
 
 ## Image Version
 
-*Last updated: 2026-11-22*
+*Last updated: 2026-11-23*
 
 [View Vulnerability Scan Report](https://github.com/cleanstart-containers/.github/blob/main/profile/VULNERABILITY_SCAN.md)
 
@@ -78,14 +78,14 @@
 | 67 | `openscap` | `1.4.5` | 2026-10-14 | `1.4.4` |
 | 68 | `opentelemetry-collector-contrib` | `0.165.1` | 2026-11-18 | `0.164.1` |
 | 69 | `pgbouncer` | `1.26.1` | 2026-10-16 | `1.26.0` |
-| 70 | `php` | `8.5.12` | 2026-10-23 | `8.5.11` |
+| 70 | `php` | `8.5.13` | 2026-11-23 | `8.5.12` |
 | 71 | `postgres` | `18.7` | 2026-11-20 | `18.6` |
 | 72 | `prometheus` | `3.16.0` | 2026-11-07 | `3.15.1` |
 | 73 | `prometheus-mysqld-exporter` | `0.21.0` | 2026-10-29 | `0.20.0` |
 | 74 | `prometheus-node-exporter` | `1.13.0` | 2026-11-20 | `1.12.1` |
 | 75 | `python` | `3.15.2` | 2026-10-29 | `3.15.1` |
 | 76 | `rabbitmq-cluster-operator` | `2.23.2` | 2026-10-31 | `2.23.1` |
-| 77 | `rabbitmq-messaging-topology-operator` | `1.20.5` | 2026-10-31 | `1.20.4` |
+| 77 | `rabbitmq-messaging-topology-operator` | `1.20.6` | 2026-11-23 | `1.20.5` |
 | 78 | `rclone` | `1.76.0` | 2026-11-18 | `1.75.2` |
 | 79 | `redis` | `8.10.3` | 2026-10-28 | `8.10.2` |
 | 80 | `redis-exporter` | `1.93.0` | 2026-10-04 | `1.90.0` |
